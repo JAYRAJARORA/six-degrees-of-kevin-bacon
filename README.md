@@ -3,6 +3,8 @@ It's a small world
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Hetal Patel hetal-patel.1994@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+Lency Lakhani lencylakhani@csu.fullerton.edu
+
+Jayraj 
