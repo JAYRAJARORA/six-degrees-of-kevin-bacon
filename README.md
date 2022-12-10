@@ -58,7 +58,7 @@ The format of the file will be as follows:
 - 3rd cast
 - 4th cast
 
-For eg. The file Test1.txt contains
+For eg. The file Test1.txt contains.
 
 > 4<br>Carrie-Anne Moss,Gloria Foster,Hugo Weaving,Joe Pantoliano,Keanu Reeves,Laurence Fishburne,Marcus Chong 
 > <br>Andre Braugher,Beau Garrett,Chris Evans, Doug Jones, Ioan Gruffudd,Jessica Alba,Julian McMahon,Kerry Washington,Laurence Fishburne,Michael Chiklis 
